@@ -1,6 +1,6 @@
 <div>
     <div align=center>
-        <img src="https://media-exp1.licdn.com/dms/image/C4D16AQEr7nLr3nAk2g/profile-displaybackgroundimage-shrink_350_1400/0/1631484813190?e=1662595200&v=beta&t=k1HdcLPXp5x95skBWa6zPN0JKrw43UaHdhrzitmTkNw" alt="GitHub Octocat Drinking a Cup of Coffee">
+        <img src="assets/back_readme.jpg" alt="GitHub Octocat Drinking a Cup of Coffee">
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Hi+there+!!!;I'm+a+Software+Engineering+student;Welcome+to+my+page+%F0%9F%98%84" alt="Headline" />
