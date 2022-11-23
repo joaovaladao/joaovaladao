@@ -14,7 +14,7 @@
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on</b>: Contribute to communities and Front-End technologies.</li>
-            <li>🤔 <b>I’m currently open for</b>: A new internship opportunity.</li>
+            <li>🤔 <b>I’m currently open for</b>: A new internship or job opportunity.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆.</li>
             <li>😄 <b>Fun fact</b>: Every time I code(💻) I need to put a song(🎵)</li>
         </ul>
